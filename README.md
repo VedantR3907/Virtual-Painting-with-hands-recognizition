@@ -4,7 +4,8 @@ This project allows you to create virtual paintings using a computer vision-base
 
 ## Image
 
-https://github.com/VedantR3907/Virtual-Painting-with-hands-recognizition/blob/master/Display_Image.png
+![Alt Text](https://github.com/VedantR3907/Virtual-Painting-with-hands-recognizition/blob/master/Display_Image.png)
+
 
 ## Installation
 
