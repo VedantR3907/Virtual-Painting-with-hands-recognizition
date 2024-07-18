@@ -1,0 +1,7 @@
+cvzone==1.6.1
+matplotlib
+mediapipe
+numpy==1.23.0
+opencv_contrib_python
+opencv_python
+Pillow
