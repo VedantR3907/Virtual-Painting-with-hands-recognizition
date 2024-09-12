@@ -9,7 +9,7 @@ This project allows you to create virtual paintinsg using a computer vision-base
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repositor:
    ```bash
    git clone https://github.com/VedantR3907/Virtual-Painting-with-hands-recognizition.git
  
