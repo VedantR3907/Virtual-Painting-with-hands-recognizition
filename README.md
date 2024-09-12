@@ -1,6 +1,6 @@
 # Virtual Painting
 
-This project allows you to create virtual paintinsg using a computer vision-based syste.
+This project allows you to create virtual paintinsg using a computer vision-based systm.
 
 ## Image
 
